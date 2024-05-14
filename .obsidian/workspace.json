@@ -18,6 +18,18 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "394bc742df6429cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000_Zet/QA/Что такое тестирование.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ]
       }
@@ -85,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 238.5,
+    "collapsed": true
   },
   "right": {
     "id": "bceab3691e8fb764",
@@ -145,8 +158,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,8 +178,10 @@
   },
   "active": "a48fdd0d8d5a839f",
   "lastOpenFiles": [
-    "000_Zet/QA/Что такое тестирование.md",
+    "000_Zet/QA/Почему тестирование необходимо.md",
     "QA-moc.md",
+    "000_Zet/QA/Что такое тестирование.md",
+    "files/ГОСТ Р 56920-2016_ISO_IEC_IEEE 29119-1_2013.mhtml",
     "Книга по сертификации на Тестировщика.md",
     "000_Zet/QA/динамическое тестирование.md",
     "000_Zet/QA/статическое тестирование.md",
@@ -177,7 +191,6 @@
     "Жизненный цикл ПО.md",
     "Модели разработки ПО.md",
     "000_Zet/QA/Принципы тестирования.md",
-    "000_Zet/QA/Почему тестирование необходимо.md",
     "000_Zet/QA/Урок 36. Систематизация знаний.md",
     "000_Zet/QA/Урок 01. Основы QA.md",
     "files/Pasted image 20240507214051.png",
@@ -201,7 +214,6 @@
     "Excalidraw/Не подтвержден 186168.crdownload",
     "brain-notes/create a link.md",
     "Excalidraw/Не подтвержден 961751.crdownload",
-    "brain-notes/Excalidraw",
-    "Новая папка"
+    "brain-notes/Excalidraw"
   ]
 }

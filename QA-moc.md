@@ -16,6 +16,11 @@
 [ISTQB_CTFL_Syllabus_2018-RU.pdf](./files/ISTQB_CTFL_Syllabus_2018-RU.pdf)
 
 > [!note] Карта основана на силлабусе https://www.gasq.org/files/content/gasq/downloads/certification/ISTQB/Foundation%20Level/ISTQB_CTFL_Syllabus_2018-RU.pdf
+
+
+> [!important] Мнемоническое правило ответа на вопросы о тестировании: 
+> представить понятный проект и то, как вопрос к нему относится.
+
 ## Основы тестирования
 [[Что такое тестирование]]
 [[Почему тестирование необходимо]]
