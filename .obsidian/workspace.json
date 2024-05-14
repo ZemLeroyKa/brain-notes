@@ -13,27 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Модели разработки ПО.md",
+                "file": "QA-moc.md",
                 "mode": "source",
                 "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a02ea60c29d628d7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7ff9f886b7962aed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Клонирование репозитория.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -49,7 +31,7 @@
       {
         "id": "06f6d80eb269ff59",
         "type": "tabs",
-        "dimension": 34.42307692307692,
+        "dimension": 43.75,
         "children": [
           {
             "id": "8b89f378817aaf15",
@@ -87,12 +69,12 @@
         ]
       },
       {
-        "id": "734f2cd088529a8f",
+        "id": "e9b9b5ac80270d61",
         "type": "tabs",
-        "dimension": 65.57692307692308,
+        "dimension": 56.25,
         "children": [
           {
-            "id": "a49a586fbec9e239",
+            "id": "f0452dcebbd8c91b",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -103,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 238.5
   },
   "right": {
     "id": "bceab3691e8fb764",
@@ -119,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Модели разработки ПО.md",
+                "file": "QA-moc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Модели разработки ПО.md",
+                "file": "QA-moc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,11 +141,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Модели разработки ПО.md"
+                "file": "QA-moc.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,13 +166,18 @@
   },
   "active": "a48fdd0d8d5a839f",
   "lastOpenFiles": [
-    "Модели разработки ПО.md",
-    "Жизненный цикл ПО.md",
+    "000_Zet/QA/Что такое тестирование.md",
     "QA-moc.md",
+    "Книга по сертификации на Тестировщика.md",
+    "000_Zet/QA/динамическое тестирование.md",
+    "000_Zet/QA/статическое тестирование.md",
+    "files/ISTQB_CTFL_Syllabus_2018-RU.pdf",
     "Клонирование репозитория.md",
+    "files/ISTQB_CTFL_Syllabus_2018-RU.pdf.crdownload",
+    "Жизненный цикл ПО.md",
+    "Модели разработки ПО.md",
     "000_Zet/QA/Принципы тестирования.md",
     "000_Zet/QA/Почему тестирование необходимо.md",
-    "000_Zet/QA/Что такое тестирование.md",
     "000_Zet/QA/Урок 36. Систематизация знаний.md",
     "000_Zet/QA/Урок 01. Основы QA.md",
     "files/Pasted image 20240507214051.png",
