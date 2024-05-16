@@ -1,8 +1,0 @@
-1. Проверить наличие ключа к GitHub аккаунту
-2. 
-	```bash
-	git clone git@github.com:ZemLeroyKa/brain-notes.git
-	```
-3. написать заметки
-4. `git commit -m`
-5. `git push`

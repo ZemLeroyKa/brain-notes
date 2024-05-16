@@ -13,25 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QA-moc.md",
+                "file": "000_Zet/Клонирование репозитория.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
           {
-            "id": "394bc742df6429cf",
+            "id": "82432baf0762e3a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_Zet/QA/Что такое тестирование.md",
-                "mode": "preview",
-                "source": true
+                "file": "000_Zet/Работа с консолью.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "376367b62e99b638",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000_Zet/QA/Tests/Тест-кейс по проверке работы шаблонизатора Обсидиан.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -43,7 +56,7 @@
       {
         "id": "06f6d80eb269ff59",
         "type": "tabs",
-        "dimension": 43.75,
+        "dimension": 58.377239199157,
         "children": [
           {
             "id": "8b89f378817aaf15",
@@ -61,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#qa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +96,7 @@
       {
         "id": "e9b9b5ac80270d61",
         "type": "tabs",
-        "dimension": 56.25,
+        "dimension": 41.622760800843,
         "children": [
           {
             "id": "f0452dcebbd8c91b",
@@ -97,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5,
-    "collapsed": true
+    "width": 300.51103591918945
   },
   "right": {
     "id": "bceab3691e8fb764",
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QA-moc.md",
+                "file": "000_Zet/Работа с консолью.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QA-moc.md",
+                "file": "000_Zet/Работа с консолью.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,16 +166,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QA-moc.md"
+                "file": "000_Zet/Работа с консолью.md"
               }
             }
+          },
+          {
+            "id": "7b9234d4dd74b477",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 462.5,
-    "collapsed": true
+    "width": 316.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,47 +193,49 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "a48fdd0d8d5a839f",
+  "active": "82432baf0762e3a7",
   "lastOpenFiles": [
-    "000_Zet/QA/Почему тестирование необходимо.md",
+    "Excalidraw/Файловые системы пример.excalidraw.md",
+    "000_Zet/Работа с консолью.md",
+    "Templates/Basic-note.md",
+    "Templates/DailyNote.md",
+    "000_Zet/QA/Tests/Тест-кейс по проверке работы шаблонизатора Обсидиан.md",
+    "000_Zet/QA/Tests/Untitled тест кейс.md",
+    "000_Zet/wysiwyg.md",
+    "README.md",
     "QA-moc.md",
+    "create a link.md",
+    "000_Zet/Клонирование репозитория.md",
+    "Templates/Test-case.md",
+    "Templates/WeeklyNote.md",
+    "000_Zet/QA/Tests",
+    "Calendar/2024-W21.md",
+    "Calendar/2024-05-18.md",
+    "Calendar/2024-05-17.md",
+    "2024-W20.md",
+    "Templates",
+    "Calendar",
+    "Собеседование на позицию JS тестера.md",
+    "2024-05-16.md",
     "000_Zet/QA/Что такое тестирование.md",
+    "000_Zet/Система свойств в Obsidian.md",
+    "files/Yandex.exe",
+    "files/Не подтвержден 188305.crdownload",
+    "000_Zet/QA/Почему тестирование необходимо.md",
     "files/ГОСТ Р 56920-2016_ISO_IEC_IEEE 29119-1_2013.mhtml",
-    "Книга по сертификации на Тестировщика.md",
+    "000_Zet/Книга по сертификации на Тестировщика.md",
     "000_Zet/QA/динамическое тестирование.md",
     "000_Zet/QA/статическое тестирование.md",
     "files/ISTQB_CTFL_Syllabus_2018-RU.pdf",
-    "Клонирование репозитория.md",
     "files/ISTQB_CTFL_Syllabus_2018-RU.pdf.crdownload",
-    "Жизненный цикл ПО.md",
-    "Модели разработки ПО.md",
-    "000_Zet/QA/Принципы тестирования.md",
-    "000_Zet/QA/Урок 36. Систематизация знаний.md",
-    "000_Zet/QA/Урок 01. Основы QA.md",
+    "000_Zet/Жизненный цикл ПО.md",
     "files/Pasted image 20240507214051.png",
     "Pasted image 20240507213915.png",
     "files",
-    "Excalidraw/Приватный и Публичный ключи связь.excalidraw.md",
-    "000_Zet/Метаинформация.md",
-    "Untitled.md",
-    "Welcome.md",
-    "brain-notes",
-    "brain-notes/QA-moc.md",
-    "brain-notes/Excalidraw/Ответ на вопрос Елены по GitHub.excalidraw.md",
-    "Excalidraw/Untitled.md",
-    "brain-notes/000_Zet/Метаинформация.md",
-    "brain-notes/wysiwyg.md",
-    "brain-notes/000_Zet/QA/Урок 01. Основы QA.md",
-    "brain-notes/000_Zet/QA",
-    "brain-notes/000_Zet",
-    "brain-notes/Excalidraw/Information system Drawing 2023-09-30 17.15.48.excalidraw.md",
-    "brain-notes/Excalidraw/QA stands architecture 2023-10-07 16.51.59.excalidraw.md",
-    "Excalidraw/Не подтвержден 186168.crdownload",
-    "brain-notes/create a link.md",
-    "Excalidraw/Не подтвержден 961751.crdownload",
-    "brain-notes/Excalidraw"
+    "brain-notes"
   ]
 }
