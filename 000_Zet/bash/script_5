@@ -1,0 +1,23 @@
+#!/bin/bash
+# -eq a=b
+# -ge a>=b
+# -gt a>b
+# -le a<=b
+# -lt a<b
+# -ne a!=b
+
+val1=6
+val2=5
+if [ $val1 -gt $val2 ]
+then
+echo "$val1 > $val2"
+
+elif [ $val1 -lt $val2 ]
+then
+echo "$val1 < $val2"
+
+elif [ $val1 -eq $val2 ]
+then
+echo "$val1 = $val2"
+
+fi

@@ -1,0 +1,30 @@
+#!/bin/bash
+# This is a comment
+
+# echo - display text
+echo "The current directory is:"
+pwd
+echo "The user logged in is:"
+whoami
+
+# $HOME - ENVIRONMENT VARIABLE
+echo "Home folder for current user is: $HOME"
+
+echo "I have \$1 in py pocket"
+
+# testing variables
+grade=5
+person="Alex"
+echo "$person is a good boy, hi is in grade $grade"
+
+# CREATE - ENVIRONMENT VARIABLE
+export VAR1="12345fdfgf"
+printenv VAR1
+
+mydir_1=`pwd`
+mydir_2=$(pwd)
+
+echo $mydir_1
+echo $mydir_2
+
+

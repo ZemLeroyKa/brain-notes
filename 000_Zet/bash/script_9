@@ -1,0 +1,7 @@
+#!/bin/bash
+VAR="GNU/Linux is an Operating system"
+if [[ $VAR == *"Linux"* ]]
+then
+   echo "It's there"
+else
+   echo "It's not there"

@@ -1,0 +1,10 @@
+#!/bin/bash
+val1="text"
+val2="text"
+
+if [ "$val1" = "$val2" ]
+then
+   echo "$val1 = $val2"
+else
+   echo "$val1 != $val2"
+fi
