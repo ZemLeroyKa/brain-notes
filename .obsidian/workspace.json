@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_Zet/Клонирование репозитория.md",
+                "file": "000_Zet/Работа с консолью.md",
                 "mode": "source",
                 "source": false
               }
@@ -212,15 +212,16 @@
   },
   "active": "f4525e4f256ec33b",
   "lastOpenFiles": [
+    "000_Zet/Работа с консолью.md",
+    "000_Zet/Клонирование репозитория.md",
+    "000_Zet/Команды вывода, передачи вывода и просмотра процессов.md",
     "file.log",
     "file.txt",
     "000_Zet/Поиск по файлам в Linux.md",
-    "000_Zet/Команды вывода, передачи вывода и просмотра процессов.md",
     "000_Zet/Чтение и редактирование файлов в Linux.md",
     "QA-moc.md",
     "000_Zet/QA/Права пользователей в Linux.md",
     "[.md",
-    "000_Zet/Работа с консолью.md",
     "Excalidraw/Схема работы с репозиториями.excalidraw.md",
     "run.sh",
     "project/style.css",
@@ -236,10 +237,8 @@
     "Calendar2/config_obsidian.md",
     "Calendar2/2024-05-18.md",
     "Calendar2/2024-05-17.md",
-    "Calendar2",
     "config_obsidian.md",
     "Templates/Basic-note.md",
-    "000_Zet/Клонирование репозитория.md",
     "files/Pasted image 20240521195213.png",
     "config_obsidian_03.md",
     "config_obsidian_0.md",
