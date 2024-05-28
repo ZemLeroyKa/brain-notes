@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_Zet/Команды вывода, передачи вывода и просмотра процессов.md",
+                "file": "000_Zet/Команды вывода и процессов.md",
                 "mode": "source",
                 "source": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000_Zet/Команды вывода, передачи вывода и просмотра процессов.md",
+                "file": "000_Zet/Команды вывода и процессов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000_Zet/Команды вывода, передачи вывода и просмотра процессов.md",
+                "file": "000_Zet/Команды вывода и процессов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000_Zet/Команды вывода, передачи вывода и просмотра процессов.md"
+                "file": "000_Zet/Команды вывода и процессов.md"
               }
             }
           },
@@ -212,12 +212,21 @@
   },
   "active": "f4525e4f256ec33b",
   "lastOpenFiles": [
+    "error.txt",
+    "output.txt",
+    "run_java_code.sh",
+    "bad.class",
+    "bad.java",
+    "000_Zet/Команды вывода, передачи вывода и просмотра процессов.md",
+    "000_Zet/Команды вывода и процессов.md",
+    "Calendar/2024-05-17.md",
+    "Calendar/2024-05-18.md",
+    "Calendar/2024-W21.md",
+    "000_Zet/Поиск по файлам в Linux.md",
     "000_Zet/Работа с консолью.md",
     "000_Zet/Клонирование репозитория.md",
-    "000_Zet/Команды вывода, передачи вывода и просмотра процессов.md",
     "file.log",
     "file.txt",
-    "000_Zet/Поиск по файлам в Linux.md",
     "000_Zet/Чтение и редактирование файлов в Linux.md",
     "QA-moc.md",
     "000_Zet/QA/Права пользователей в Linux.md",
@@ -227,10 +236,6 @@
     "project/style.css",
     "project/index.html",
     "project",
-    "1.txt",
-    "Calendar/2.txt",
-    "3.txt",
-    "2.txt",
     "config_obsidian_02.md",
     "Calendar/config_obsidian.md",
     "Calendar2/2024-W21.md",
@@ -244,10 +249,6 @@
     "config_obsidian_0.md",
     "config_obsidian_01.md",
     "Консоль. Команда ls.md",
-    "000_Zet/Файл от ФСБ о всей деятельности Арсения.md",
-    "000_Zet/ Файл от ФСБ о всей деятельности Арсения.md",
-    "Файл от ФСБ о всей деятельности Арсения.md",
-    "Excalidraw/Файловые системы пример.excalidraw.md",
     "files/Pasted image 20240507214051.png",
     "Pasted image 20240507213915.png"
   ]

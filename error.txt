@@ -1,0 +1,13 @@
+Exception in thread "main" java.lang.ArithmeticException: / by zero
+	at bad.main(bad.java:4)
+Tue, May 28, 2024 9:46:09 PM
+Exception in thread "main" java.lang.ArithmeticException: / by zero
+	at bad.main(bad.java:4)
+Tue, May 28, 2024 9:46:39 PM
+Exception in thread "main" java.lang.ArithmeticException: / by zero
+	at bad.main(bad.java:4)
+Tue, May 28, 2024 9:46:43 PM
+Exception in thread "main" java.lang.ArithmeticException: / by zero
+	at bad.main(bad.java:4)
+Tue, May 28, 2024 9:48:31 PM
+Tue, May 28, 2024 9:49:07 PM
