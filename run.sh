@@ -22,14 +22,3 @@ echo "Отправили наши новости на сервер"
 
 echo "Локальная и удалённая версии синхронизированы"
 echo "Друзья встретились и обменялись новостями"
-coding
-codpen
-codepen
-code
-cod
-codewars
-codxe
-cod e
-code\te
-cod
-e
