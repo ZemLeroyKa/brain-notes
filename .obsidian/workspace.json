@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "6f8ef542f185cf22",
+            "id": "f4525e4f256ec33b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_Zet/Работа с консолью.md",
+                "file": "000_Zet/Запуск Java-файлов на компьютере.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "f4525e4f256ec33b",
+            "id": "3099d044f556d963",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_Zet/Команды вывода и процессов.md",
+                "file": "Gamedev тестирование.md",
                 "mode": "source",
                 "source": true
               }
@@ -122,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.51103591918945,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000_Zet/Команды вывода и процессов.md",
+                "file": "Gamedev тестирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000_Zet/Команды вывода и процессов.md",
+                "file": "Gamedev тестирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000_Zet/Команды вывода и процессов.md"
+                "file": "Gamedev тестирование.md"
               }
             }
           },
@@ -210,32 +210,70 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f4525e4f256ec33b",
+  "floating": {
+    "id": "5b612a80f272e2e2",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b41f29c6819af970",
+        "type": "window",
+        "children": [
+          {
+            "id": "f50e66b0e5c549e1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "179eac6a192bdc48",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/javac several files.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 2.5
+      }
+    ]
+  },
+  "active": "3099d044f556d963",
   "lastOpenFiles": [
+    "2024-05-30.md",
+    "Gamedev тестирование.md",
+    "000_Zet/Запуск Java-файлов на компьютере.md",
+    "Excalidraw/javac several files.md",
+    "000_Zet/Поиск по файлам в Linux.md",
+    "000_Zet/Работа с консолью.md",
+    "000_Zet/Чтение и редактирование файлов в Linux.md",
+    "000_Zet/Команды вывода, передачи вывода и просмотра процессов.md",
+    "000_Zet/Команды вывода и процессов.md",
+    "000_Zet/Клонирование репозитория.md",
+    "env.txt",
     "error.txt",
     "output.txt",
     "run_java_code.sh",
     "bad.class",
     "bad.java",
-    "000_Zet/Команды вывода, передачи вывода и просмотра процессов.md",
-    "000_Zet/Команды вывода и процессов.md",
     "Calendar/2024-05-17.md",
     "Calendar/2024-05-18.md",
     "Calendar/2024-W21.md",
-    "000_Zet/Поиск по файлам в Linux.md",
-    "000_Zet/Работа с консолью.md",
-    "000_Zet/Клонирование репозитория.md",
     "file.log",
     "file.txt",
-    "000_Zet/Чтение и редактирование файлов в Linux.md",
     "QA-moc.md",
     "000_Zet/QA/Права пользователей в Linux.md",
     "[.md",
     "Excalidraw/Схема работы с репозиториями.excalidraw.md",
     "run.sh",
     "project/style.css",
-    "project/index.html",
-    "project",
     "config_obsidian_02.md",
     "Calendar/config_obsidian.md",
     "Calendar2/2024-W21.md",
@@ -246,9 +284,6 @@
     "Templates/Basic-note.md",
     "files/Pasted image 20240521195213.png",
     "config_obsidian_03.md",
-    "config_obsidian_0.md",
-    "config_obsidian_01.md",
-    "Консоль. Команда ls.md",
     "files/Pasted image 20240507214051.png",
     "Pasted image 20240507213915.png"
   ]
