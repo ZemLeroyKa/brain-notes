@@ -25,60 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_Zet/Запуск Java-файлов на компьютере.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3099d044f556d963",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Gamedev тестирование.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "6ab813aef55c6d01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000_Zet/Практика работы с ветками Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69cdb0532c254b48",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "files/Три коммита.png"
-              }
-            }
-          },
-          {
-            "id": "376367b62e99b638",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000_Zet/QA/Tests/Тест-кейс по проверке работы шаблонизатора Обсидиан.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#qa",
+                "query": "gam",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e9b9b5ac80270d61",
@@ -144,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 311.000732421875,
     "collapsed": true
   },
   "right": {
@@ -161,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000_Zet/Практика работы с ветками Git.md",
+                "file": "Gamedev тестирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000_Zet/Практика работы с ветками Git.md",
+                "file": "Gamedev тестирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -201,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000_Zet/Практика работы с ветками Git.md"
+                "file": "Gamedev тестирование.md"
               }
             }
           },
@@ -232,54 +187,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "floating": {
-    "id": "5b612a80f272e2e2",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b41f29c6819af970",
-        "type": "window",
-        "children": [
-          {
-            "id": "f50e66b0e5c549e1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e08b4e58a62c1802",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Drawing 2024-06-04 19.19.28.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 2.5
-      }
-    ]
-  },
-  "active": "8b89f378817aaf15",
+  "active": "f4525e4f256ec33b",
   "lastOpenFiles": [
-    "files/Куда смотрит указатель при создании ветки.png",
-    "000_Zet/Практика работы с ветками Git.md",
-    "commits_log.md",
+    "Gamedev тестирование.md",
+    "000_Zet/Запуск Java-файлов на компьютере.md",
+    "000_Zet/QA/Tests/Тест-кейс по проверке работы шаблонизатора Обсидиан.md",
     "files/Три коммита.png",
+    "000_Zet/Практика работы с ветками Git.md",
+    "Excalidraw/Drawing 2024-06-04 19.19.28.excalidraw.md",
+    "files/Куда смотрит указатель при создании ветки.png",
+    "commits_log.md",
     "files/Пять файлов одного коммита.png",
     "files/Pasted image 20240604193410.png",
-    "Excalidraw/Drawing 2024-06-04 19.19.28.excalidraw.md",
     "Excalidraw/javac several files.md",
-    "Gamedev тестирование.md",
     "2024-05-30.md",
-    "000_Zet/Запуск Java-файлов на компьютере.md",
     "000_Zet/Поиск по файлам в Linux.md",
     "000_Zet/Работа с консолью.md",
     "000_Zet/Чтение и редактирование файлов в Linux.md",
