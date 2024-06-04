@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Практика работы с ветками Git.md",
+                "file": "000_Zet/Практика работы с ветками Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Практика работы с ветками Git.md",
+                "file": "000_Zet/Практика работы с ветками Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Практика работы с ветками Git.md",
+                "file": "000_Zet/Практика работы с ветками Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Практика работы с ветками Git.md"
+                "file": "000_Zet/Практика работы с ветками Git.md"
               }
             }
           },
@@ -267,10 +267,10 @@
       }
     ]
   },
-  "active": "6ab813aef55c6d01",
+  "active": "8b89f378817aaf15",
   "lastOpenFiles": [
     "files/Куда смотрит указатель при создании ветки.png",
-    "Практика работы с ветками Git.md",
+    "000_Zet/Практика работы с ветками Git.md",
     "commits_log.md",
     "files/Три коммита.png",
     "files/Пять файлов одного коммита.png",
