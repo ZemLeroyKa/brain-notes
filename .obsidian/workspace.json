@@ -44,6 +44,28 @@
             }
           },
           {
+            "id": "6ab813aef55c6d01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Практика работы с ветками Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69cdb0532c254b48",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "files/Три коммита.png"
+              }
+            }
+          },
+          {
             "id": "376367b62e99b638",
             "type": "leaf",
             "state": {
@@ -56,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gamedev тестирование.md",
+                "file": "Практика работы с ветками Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gamedev тестирование.md",
+                "file": "Практика работы с ветками Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gamedev тестирование.md"
+                "file": "Практика работы с ветками Git.md"
               }
             }
           },
@@ -223,12 +245,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "179eac6a192bdc48",
+                "id": "e08b4e58a62c1802",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "Excalidraw/javac several files.md"
+                    "file": "Excalidraw/Drawing 2024-06-04 19.19.28.excalidraw.md"
                   }
                 }
               }
@@ -245,12 +267,19 @@
       }
     ]
   },
-  "active": "3099d044f556d963",
+  "active": "6ab813aef55c6d01",
   "lastOpenFiles": [
-    "2024-05-30.md",
-    "Gamedev тестирование.md",
-    "000_Zet/Запуск Java-файлов на компьютере.md",
+    "files/Куда смотрит указатель при создании ветки.png",
+    "Практика работы с ветками Git.md",
+    "commits_log.md",
+    "files/Три коммита.png",
+    "files/Пять файлов одного коммита.png",
+    "files/Pasted image 20240604193410.png",
+    "Excalidraw/Drawing 2024-06-04 19.19.28.excalidraw.md",
     "Excalidraw/javac several files.md",
+    "Gamedev тестирование.md",
+    "2024-05-30.md",
+    "000_Zet/Запуск Java-файлов на компьютере.md",
     "000_Zet/Поиск по файлам в Linux.md",
     "000_Zet/Работа с консолью.md",
     "000_Zet/Чтение и редактирование файлов в Linux.md",
@@ -279,11 +308,7 @@
     "Calendar2/2024-W21.md",
     "Calendar2/config_obsidian.md",
     "Calendar2/2024-05-18.md",
-    "Calendar2/2024-05-17.md",
-    "config_obsidian.md",
-    "Templates/Basic-note.md",
     "files/Pasted image 20240521195213.png",
-    "config_obsidian_03.md",
     "files/Pasted image 20240507214051.png",
     "Pasted image 20240507213915.png"
   ]
