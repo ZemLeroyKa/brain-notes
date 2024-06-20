@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_Zet/Работа с удалённым сервером.md",
+                "file": "000_Zet/Веб-приложения.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000_Zet/Работа с удалённым сервером.md",
+                "file": "000_Zet/Веб-приложения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000_Zet/Работа с удалённым сервером.md",
+                "file": "000_Zet/Веб-приложения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000_Zet/Работа с удалённым сервером.md"
+                "file": "000_Zet/Веб-приложения.md"
               }
             }
           },
@@ -212,8 +212,11 @@
   },
   "active": "696c90e53a9a862d",
   "lastOpenFiles": [
-    "Soft-delete.md",
+    "files/Pasted image 20240620215123.png",
+    "index.html",
     "000_Zet/Работа с удалённым сервером.md",
+    "000_Zet/Веб-приложения.md",
+    "Soft-delete.md",
     "000_Zet/Мобильная разработка.md",
     "Календарь.png",
     "files/Android activity Lifecycle 20240613201625.png",
@@ -251,9 +254,6 @@
     "file.txt",
     "QA-moc.md",
     "000_Zet/QA/Права пользователей в Linux.md",
-    "[.md",
-    "Excalidraw/Схема работы с репозиториями.excalidraw.md",
-    "run.sh",
     "files/Pasted image 20240521195213.png",
     "files/Pasted image 20240507214051.png",
     "Pasted image 20240507213915.png"

@@ -11,5 +11,6 @@
   },
   "attachmentFolderPath": "files",
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "vimMode": false
 }
