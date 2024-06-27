@@ -13,21 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_Zet/Gamedev тестирование.md",
+                "file": "000_Zet/Работа с удалённым сервером.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "f4525e4f256ec33b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000_Zet/QA/Homeworks/Пример игры для написания тест-кейсов.md",
-                "mode": "source",
-                "source": true
               }
             }
           },
@@ -38,42 +26,6 @@
               "type": "markdown",
               "state": {
                 "file": "000_Zet/Веб-приложения.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48bf0d3066b9b345",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Soft-delete.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d3fd559339b5fdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wireshark.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ff4bfd0a680f3fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Charles proxy.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -248,20 +200,21 @@
   },
   "active": "ab0a30907b8f4075",
   "lastOpenFiles": [
+    "000_Zet/Работа с удалённым сервером.md",
     "Docker.md",
-    "Charles proxy.md",
-    "Wireshark.md",
+    "Docker-commands.sh",
+    "000_Zet/Gamedev тестирование.md",
+    "000_Zet/QA/Homeworks/Пример игры для написания тест-кейсов.md",
     "000_Zet/Веб-приложения.md",
+    "Soft-delete.md",
+    "Wireshark.md",
+    "Charles proxy.md",
     "files/Pasted image 20240620215123.png",
     "index.html",
-    "000_Zet/Работа с удалённым сервером.md",
-    "Soft-delete.md",
     "000_Zet/Мобильная разработка.md",
     "Календарь.png",
     "files/Android activity Lifecycle 20240613201625.png",
-    "000_Zet/Gamedev тестирование.md",
     "000_Zet/Работа с консолью.md",
-    "000_Zet/QA/Homeworks/Пример игры для написания тест-кейсов.md",
     "000_Zet/QA/Homeworks",
     "000_Zet/2024-06-06 Homework.md",
     "000_Zet/Запуск Java-файлов на компьютере.md",
@@ -288,9 +241,7 @@
     "bad.java",
     "Calendar/2024-05-17.md",
     "Calendar/2024-05-18.md",
-    "Calendar/2024-W21.md",
     "file.log",
-    "file.txt",
     "files/Pasted image 20240521195213.png",
     "files/Pasted image 20240507214051.png",
     "Pasted image 20240507213915.png"
