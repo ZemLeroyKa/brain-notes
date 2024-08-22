@@ -25,21 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_Zet/Веб-приложения.md",
+                "file": "000_Zet/Базы данных/Урок 2.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab0a30907b8f4075",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000_Zet/Базы данных/Урок 01.md",
-                "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -54,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b3a35e6a39a1e429",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/DailyNote.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000_Zet/Базы данных/Урок 01.md",
+                "file": "000_Zet/Базы данных/Урок 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000_Zet/Базы данных/Урок 01.md",
+                "file": "000_Zet/Базы данных/Урок 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000_Zet/Базы данных/Урок 01.md"
+                "file": "000_Zet/Базы данных/Урок 2.md"
               }
             }
           },
@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
+    "width": 429,
     "collapsed": true
   },
   "left-ribbon": {
@@ -207,13 +207,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ab0a30907b8f4075",
+  "active": "696c90e53a9a862d",
   "lastOpenFiles": [
-    "query code.md",
     "000_Zet/Базы данных/Урок 01.md",
+    "000_Zet/Базы данных/Урок 2.md",
+    "Templates/DailyNote.md",
+    "query code.md",
+    "Templates/WeeklyNote.md",
+    "000_Zet/Веб-приложения.md",
     "000_Zet/СУБД.md",
     "ACID.md",
     "Docker.md",
@@ -223,7 +228,6 @@
     "Docker-commands.sh",
     "000_Zet/Gamedev тестирование.md",
     "000_Zet/QA/Homeworks/Пример игры для написания тест-кейсов.md",
-    "000_Zet/Веб-приложения.md",
     "Soft-delete.md",
     "Wireshark.md",
     "Charles proxy.md",
@@ -246,9 +250,6 @@
     "files/Pasted image 20240604193410.png",
     "Excalidraw/javac several files.md",
     "2024-05-30.md",
-    "000_Zet/Поиск по файлам в Linux.md",
-    "000_Zet/Чтение и редактирование файлов в Linux.md",
-    "000_Zet/Команды вывода, передачи вывода и просмотра процессов.md",
     "env.txt",
     "error.txt",
     "output.txt",
