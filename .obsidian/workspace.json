@@ -27,7 +27,7 @@
               "state": {
                 "file": "000_Zet/Базы данных/Урок 2.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -207,14 +207,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "periodic-notes:Open today": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "696c90e53a9a862d",
   "lastOpenFiles": [
-    "000_Zet/Базы данных/Урок 01.md",
+    "Untitled.md",
     "000_Zet/Базы данных/Урок 2.md",
+    "000_Zet/Базы данных/Урок 01.md",
     "Templates/DailyNote.md",
     "query code.md",
     "Templates/WeeklyNote.md",
@@ -249,7 +250,6 @@
     "files/Пять файлов одного коммита.png",
     "files/Pasted image 20240604193410.png",
     "Excalidraw/javac several files.md",
-    "2024-05-30.md",
     "env.txt",
     "error.txt",
     "output.txt",
