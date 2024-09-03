@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_Zet/Базы данных/Урок 2.md",
+                "file": "000_Zet/Базы данных/ДЗ Урок 7-8.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,6 +52,26 @@
                 "file": "Скрипт создания таблицы как в классе.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "b678bc90fcffe949",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "000_Zet/Базы данных/Teachers-TeachersGroups-Groups tables.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "a6e2077e10e3b2c8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "000_Zet/Базы данных/Students-Groups tables.excalidraw.md"
               }
             }
           }
@@ -122,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.000732421875,
-    "collapsed": true
+    "width": 311.000732421875
   },
   "right": {
     "id": "bceab3691e8fb764",
@@ -139,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000_Zet/Базы данных/Урок 2.md",
+                "file": "000_Zet/Базы данных/ДЗ Урок 7-8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000_Zet/Базы данных/Урок 2.md",
+                "file": "000_Zet/Базы данных/ДЗ Урок 7-8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000_Zet/Базы данных/Урок 2.md"
+                "file": "000_Zet/Базы данных/ДЗ Урок 7-8.md"
               }
             }
           },
@@ -190,16 +209,26 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "9281310312d82375",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 429,
+    "width": 439,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -207,18 +236,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "periodic-notes:Open today": false
     }
   },
   "active": "34b1b2c780ab4e7b",
   "lastOpenFiles": [
+    "000_Zet/Базы данных/Урок 3.md",
+    "000_Zet/Базы данных/ДЗ Урок 7-8.md",
+    "000_Zet/Базы данных/Скрипт создания таблицы с внешним ключом.md",
     "Скрипт создания таблицы как в классе.md",
+    "000_Zet/Базы данных/Teachers-TeachersGroups-Groups tables.excalidraw.md",
+    "000_Zet/Базы данных/Students-Groups tables.excalidraw.md",
+    "000_Zet/Базы данных/ДЗ Урок 5-6.md",
     "000_Zet/Базы данных/Урок 2.md",
     "query code.md",
     "Templates/DailyNote.md",
     "Регулярные выражения.md",
-    "000_Zet/Базы данных/ДЗ Урок 5-6.md",
     "Untitled.md",
     "000_Zet/Базы данных/Урок 01.md",
     "Templates/WeeklyNote.md",
@@ -240,13 +273,8 @@
     "000_Zet/Мобильная разработка.md",
     "Календарь.png",
     "files/Android activity Lifecycle 20240613201625.png",
-    "000_Zet/Работа с консолью.md",
     "000_Zet/QA/Homeworks",
-    "000_Zet/2024-06-06 Homework.md",
-    "000_Zet/Запуск Java-файлов на компьютере.md",
-    "000_Zet/QA/Tests/Тест-кейс по проверке работы шаблонизатора Обсидиан.md",
     "files/Три коммита.png",
-    "000_Zet/Практика работы с ветками Git.md",
     "files/Куда смотрит указатель при создании ветки.png",
     "files/Пять файлов одного коммита.png",
     "files/Pasted image 20240604193410.png",
