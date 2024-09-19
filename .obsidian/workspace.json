@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Автоматизация тестирования.md",
+                "file": "000_Zet/QA/Tests/Автоматизация тестирования.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Автоматизация тестирования.md",
+                "file": "000_Zet/QA/Tests/Автоматизация тестирования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Автоматизация тестирования.md",
+                "file": "000_Zet/QA/Tests/Автоматизация тестирования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Автоматизация тестирования.md"
+                "file": "000_Zet/QA/Tests/Автоматизация тестирования.md"
               }
             }
           },
@@ -185,7 +185,14 @@
   },
   "active": "43021d5622b9c59b",
   "lastOpenFiles": [
-    "Автоматизация тестирования.md",
+    "000_Zet/QA/Tests/Все версии ChromeDriver можно найти здесь.md",
+    "000_Zet/QA/Tests/Шпаргалка по Selenium в Java.md",
+    "000_Zet/QA/Tests/Untitled",
+    "000_Zet/QA/Tests/Системы сборки.md",
+    "files/Pasted image 20240919203707.png",
+    "000_Zet/Базы данных/Как создать сервер для базы данных в MS SQL.md",
+    "files/Pasted image 20240919193104.png",
+    "000_Zet/QA/Tests/Автоматизация тестирования.md",
     "000_Zet/Работа с удалённым сервером.md",
     "000_Zet/Базы данных/ДЗ Урок 5-6.md",
     "000_Zet/Базы данных/Урок 2.md",
@@ -209,11 +216,7 @@
     "ACID.md",
     "Docker.md",
     "000_Zet/Базы данных",
-    "000_Zet/Docker volume и переменные окружения.md",
     "Docker-commands.sh",
-    "000_Zet/Gamedev тестирование.md",
-    "000_Zet/QA/Homeworks/Пример игры для написания тест-кейсов.md",
-    "Soft-delete.md",
     "files/Pasted image 20240620215123.png",
     "index.html",
     "Календарь.png",
@@ -227,9 +230,6 @@
     "error.txt",
     "output.txt",
     "run_java_code.sh",
-    "bad.class",
-    "bad.java",
-    "files/Pasted image 20240521195213.png",
-    "files/Pasted image 20240507214051.png"
+    "bad.class"
   ]
 }
